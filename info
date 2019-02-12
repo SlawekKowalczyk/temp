@@ -1,0 +1,64 @@
+motoryzacja:
+opis
+kolor:
+  beżowy
+  biały
+  bordowy
+  brązowy
+  czarny
+  czerwony
+  fioletowy
+  niebieski
+  srebny
+  szary
+  zielony
+  żółty
+  złoty
+dodatkowe wyposażenie
+telefon kontaktowy
+imie
+adres mailowy
+miasto
+zgoda na przetwarzanie danych
+do negocjacji
+zdjęcia
+nr vin
+
+elektronika:
+cena, 
+stan:
+  nowy,
+  używany,
+  uszkodzony
+  
+Praca:
+typ umowy:
+  umowa o prace
+  umowa o dzieło
+  umowa zlecenie
+  samozatrudnienie
+  inne
+wymiar czasu pracy:
+  pełny etat
+  niepełny etat
+  dodatkowa/ sezonowa
+  praktyki / staż
+dodatkowe informacje
+  orzeczenie o niepełnosprawności
+  student
+
+dom i ogród
+  cena
+  zdjęcie
+
+moda
+  cena
+  stan:
+    nowe
+    używane
+  zdjęcie
+
+dla dzieci
+  cena
+  stan
+  zdjęcie
